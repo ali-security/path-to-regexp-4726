@@ -1,6 +1,6 @@
 {
   "name": "path-to-regexp",
-  "version": "6.2.1",
+  "version": "6.2.1-sp1",
   "publishConfig": {
     "access": "public"
   },
